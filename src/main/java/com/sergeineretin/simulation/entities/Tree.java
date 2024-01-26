@@ -1,7 +1,6 @@
-package com.sergeineretin.simulation.entity;
+package com.sergeineretin.simulation.entities;
 
 import com.sergeineretin.simulation.Coordinates;
-import com.sergeineretin.simulation.entity.Entity;
 
 public class Tree extends Entity {
     public Tree(Coordinates coordinates) {

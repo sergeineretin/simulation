@@ -1,4 +1,4 @@
-package com.sergeineretin.simulation.entity;
+package com.sergeineretin.simulation.entities;
 
 import com.sergeineretin.simulation.Coordinates;
 
